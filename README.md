@@ -28,7 +28,7 @@
   
 ##  
   
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 90%" >
+<div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 80%" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=11Victor&show_icons=true&locale=en&theme=dark" alt="11Victor" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=11Victor&show_icons=true&locale=en&theme=dark" alt="11Victor" /></p><br>
 </div>
