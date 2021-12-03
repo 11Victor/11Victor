@@ -1,6 +1,6 @@
 # Olá! eu sou Victor Valencio
 
-#### Sou apaixonado por programação, tenho 22 anos, estou cursando o 4° semestre de Engenharia da Computação e conciliando com o Bootcamp da Generation Brasil com o principal objetivo de me tornar um Desenvolvedor Full Stack Júnior, atualmente estou aberto para receber propostas de trabalho.
+#### Sou apaixonado por programação, tenho 22 anos, estou cursando o 4° semestre de Engenharia da Computação e formado no Bootcamp da Generation Brasil com o principal objetivo de me tornar um Desenvolvedor Full Stack Júnior, atualmente estou aberto para receber propostas de trabalho.
 <div>
   <a href="https://www.linkedin.com/in/victor-valencio-854012209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/valencio_m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
