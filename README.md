@@ -1,6 +1,6 @@
 # Olá! eu sou Victor Valencio
 
-#### Sou apaixonado por programação, tenho 22 anos, estou cursando o 5° semestre de Engenharia da Computação e formado no Bootcamp da Generation Brasil.
+#### Sou apaixonado por programação, tenho 22 anos, trabalho como desenvolvedor Java na Union IT Digital, estou cursando o 5° semestre de Engenharia da Computação e formado no Bootcamp da Generation Brasil.
 <div>
   <a href="https://www.linkedin.com/in/victor-valencio-854012209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/victor__valencio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
