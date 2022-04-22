@@ -27,14 +27,16 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> | <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"> | <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  
-##  
-  
-<div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 90%" >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=11Victor&show_icons=true&locale=en&theme=dark" alt="11Victor">
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=11Victor&show_icons=true&locale=en&theme=dark" alt="11Victor">
-</div>
- 
-  
+<br>
 
-  
+## My GitHub Stats
+
+<div align="center">
+<a href="https://github.com/11Victor"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11Victor&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
+<div style="display: flex; flex-direction:column; align-items: center; justify-content: center; width: 90%" >
+<a href="http://www.github.com/11Victor"><img src="https://github-readme-stats.vercel.app/api?username=11Victor&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="11Victor's GitHub stats" /></a>
+<a href="http://www.github.com/11Victor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=11Victor&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
+<a href="http://www.github.com/11Victor" align="center"><img src="https://activity-graph.herokuapp.com/graph?username=11Victor&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
