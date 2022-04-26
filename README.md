@@ -4,16 +4,10 @@
 <div>
   <a href="https://www.linkedin.com/in/victor-valencio-854012209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/victor__valencio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:victor.arquivos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<img align="right" width="320" height="320" src="https://i.imgur.com/K5gbbpZ.png">
-<br>
+  <a href = "mailto:victor.arquivos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
 
  ## Skills
  
-#### Sou uma pessoa bastante proativa, persistente e mesmo nas horas vagas estou programando algo ou aprendendo alguma linguagem nova, abaixo você pode visualizar as linguagens que estou me aprimorando.
-
-
 #### Back-end:
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
