@@ -1,6 +1,6 @@
 # Olá! eu sou Victor Valencio
 
-#### Desenvolvedor Java na Union IT Digital e cursando o 5° semestre de Engenharia da Computação.
+#### Desenvolvedor Java na Union IT Digital e cursando o 6° semestre de Engenharia da Computação.
 <div>
   <a href="https://www.linkedin.com/in/victor-valencio-854012209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:victor.valencio01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
