@@ -8,9 +8,7 @@
 ## Principais Projetos Back-end
 1 - <a href="https://github.com/11Victor/GerenciadorDeTarefas" target="_blank">Gerenciador de Tarefas</a> <br>
 2 - <a href="https://github.com/11Victor/DjRIcardo-BackEnd" target="_blank">Back End DjRIcardo</a> <br>
-3 - <a href="https://github.com/11Victor/BLOG-PESSOAL-BACK_END" target="_blank">Blog Pessoal</a> <br>
-
-
+3 - <a href="https://github.com/11Victor/BLOG-PESSOAL-BACK_END" target="_blank">Blog Pessoal</a> <br><br>
 
 ## Skills
  
