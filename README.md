@@ -6,9 +6,9 @@
   <a href = "mailto:victor.valencio01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
 
 ## Principais Projetos Back-end
-1 - <a href="https://github.com/11Victor/GerenciadorDeTarefas" target="_blank">Gerenciador de Tarefas</a>
-2 - <a href="https://github.com/11Victor/DjRIcardo-BackEnd" target="_blank">Back End DjRIcardo</a>
-3 - <a href="https://github.com/11Victor/BLOG-PESSOAL-BACK_END" target="_blank">Blog Pessoal</a>
+1 - <a href="https://github.com/11Victor/GerenciadorDeTarefas" target="_blank">Gerenciador de Tarefas</a> <br>
+2 - <a href="https://github.com/11Victor/DjRIcardo-BackEnd" target="_blank">Back End DjRIcardo</a> <br>
+3 - <a href="https://github.com/11Victor/BLOG-PESSOAL-BACK_END" target="_blank">Blog Pessoal</a> <br>
 
 
 
