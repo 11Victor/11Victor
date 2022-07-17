@@ -5,7 +5,14 @@
   <a href="https://www.linkedin.com/in/victor-valencio-854012209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:victor.valencio01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
 
- ## Skills
+## Principais Projetos Back-end
+1 - <a href="https://github.com/11Victor/GerenciadorDeTarefas" target="_blank">Gerenciador de Tarefas</a>
+2 - <a href="https://github.com/11Victor/DjRIcardo-BackEnd" target="_blank">Back End DjRIcardo</a>
+3 - <a href="https://github.com/11Victor/BLOG-PESSOAL-BACK_END" target="_blank">Blog Pessoal</a>
+
+
+
+## Skills
  
 #### Back-end:
 | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"> |
